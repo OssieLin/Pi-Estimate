@@ -7,4 +7,4 @@ $$\frac{\pi r^2}{(2r)^2} = \frac{\text{Number of points inside the circle}}{\tex
 Calculate the distance between each point and see if they are within the radius 1.\
 The 4 times of the radius between the number of point within the circle and the total number of point is pi!\
 \
-For more, we can look up [Monte Carlo]{https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/}, using abundant random number to obtain a targeted result.
+For more, we can look up [Monte Carlo](https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/), using abundant random number to obtain a targeted result.
